@@ -14,10 +14,10 @@ ARTICLE 2 - BUT OBJET
 Cette association a pour but et objet :
 
 Pour (remplir/atteindre) son but, elle
-le partage de connaissances, de savoirs, de savoirs faire, et de savoir faire-faire
-la mise à disposition d’un local et de matériels pour ses membres
-l'achat, la  vente et la location de tous matériels
-la possibilité d'organisation d’évènements à destination du grand public.
+* le partage de connaissances, de savoirs, de savoirs faire, et de savoir faire-faire
+* la mise à disposition d’un local et de matériels pour ses membres
+* l'achat, la  vente et la location de tous matériels
+* la possibilité d'organisation d’évènements à destination du grand public.
 
 
 ARTICLE 3 - SIÈGE SOCIAL
@@ -38,10 +38,12 @@ ARTICLE 5 - COMPOSITION
 -----------------------
 
 L'association se compose de :
-a) Membres fondateurs
-b) Membres d'honneur
-c) Membres actifs ou adhérents
+* Membres fondateurs
+* Membres d'honneur
+* Membres actifs ou adhérents
+
 Les membres peuvent être des personnes physiques ou morales.
+
 En cas de personnes morales, celle-ci sera représentée par un membre de son conseil d’administration ou tout autre personne ayant reçu pouvoir de cette instance.
 
 
@@ -54,7 +56,8 @@ Pour faire partie de l'association, il faut être agréé par le bureau, qui sta
 ARTICLE 7 - MEMBRES – COTISATIONS
 ---------------------------------
 
-Sont membres actifs ceux qui ont pris l'engagement de verser annuellement une somme à titre de cotisation fixé par l’assemblée générale dans le règlement intérieur
+Sont membres actifs ceux qui ont pris l'engagement de verser annuellement une somme à titre de cotisation fixé par l’assemblée générale dans le règlement intérieur.
+
 Sont membres d'honneur ceux qui ont rendu des services signalés à l'association; ils sont dispensés de cotisations;
 
 Chaque membres actifs, d'honneur ou adhérents à jours de sa cotisation, 1 an avant la tenu de l’assemblé générale, est en pouvoir de voter.
@@ -64,12 +67,11 @@ ARTICLE 8. - RADIATIONS
 -----------------------
 
 La qualité de membre se perd par :
-a) La démission;
-b) Le décès;
-c) La radiation prononcée par le conseil d'administration pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité par lettre recommandée à fournir des explications devant le bureau et/ou par écrit.
-(Préciser les modalités de la radiation, les possibilités de défense et de recours du membre.
-Les motifs graves peuvent être précisés ici ou dans le règlement intérieur.)
-d) Pour tout motif de radiation, si le dit adhérent en joui, le status de membre fondateur lui sera définitivement retiré. En cas de radiation de tous les membres fondateurs, (suite à formuler de façon à ce que rien n'entrave toute démarche administrative de l'association)
+* La démission;
+* Le décès;
+* La radiation prononcée par le conseil d'administration pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité par lettre recommandée à fournir des explications devant le bureau et/ou par écrit.
+(Préciser les modalités de la radiation, les possibilités de défense et de recours du membre. Les motifs graves peuvent être précisés ici ou dans le règlement intérieur.)
+* Pour tout motif de radiation, si le dit adhérent en joui, le status de membre fondateur lui sera définitivement retiré. En cas de radiation de tous les membres fondateurs, (suite à formuler de façon à ce que rien n'entrave toute démarche administrative de l'association)
 
 
 ARTICLE 9. - AFFILIATION
@@ -82,9 +84,9 @@ ARTICLE 10. - RESSOURCES
 ------------------------
 
 Les ressources de l'association comprennent :
-1° Le montant des cotisations;
-2° Les subventions de la communauté Européenne, l’État, des départements et des communes.
-3° Toutes les ressources autorisées par les lois et règlements en vigueur.
+* Le montant des cotisations;
+* Les subventions de la communauté Européenne, l’État, des départements et des communes.
+* Toutes les ressources autorisées par les lois et règlements en vigueur.
 
 
 ARTICLE 11 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
@@ -95,9 +97,13 @@ L'assemblée générale ordinaire comprend tous les membres de l'association à 
 Elle se réunit chaque année au mois de janvier (ou mars pendant les vacances d'hivers)
 
 Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du secrétaire. L'ordre du jour figure sur les convocations.
+
 Le président, assisté des membres du conseil, préside l'assemblée et expose la situation morale et/ou l’activité de l'association.
+
 Le trésorier rend compte de sa gestion et soumet les comptes annuels (bilan, compte de résultat et annexe) à l'approbation de l'assemblée.
+
 L’assemblée générale fixe le montant des cotisations annuelles et du droit d’entrée à verser par les différentes catégories de membres.
+
 Ne peuvent être abordés que les points inscrits à l'ordre du jour.
 
 Les décisions sont prises à la majorité des voix des membres présents ou représentés. Un quorum des 2/3 des membres inscrits est nécessaire.
