@@ -11,13 +11,12 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 ARTICLE 2 - BUT OBJET
 ---------------------
 
-(Note d'Alex : pour éviter de 'ne pas rentrer dans les cases' ou d'être consideré comme industriue, il semble pertinent de se limiter à la "mise à disposition de matériels" sans rentrer dans les détails)
 Cette association a pour but et objet :
 
 Pour (remplir/atteindre) son but, elle
-le partage de connaissances, de savoirs, de savoirs faire, et de savoir faire-faire (en référence à Duchateau prof belge de l'informatique des années 80, il ajoutait même "en différé")
+le partage de connaissances, de savoirs, de savoirs faire, et de savoir faire-faire
 la mise à disposition d’un local et de matériels pour ses membres
-l'achat, la  vente et la location de tous matériels (note de Flo : cette mention est à retirer si l'asso désire  être déclarée d'interet public)
+l'achat, la  vente et la location de tous matériels
 la possibilité d'organisation d’évènements à destination du grand public.
 
 
