@@ -110,6 +110,7 @@ Le conseil étant renouvelé tous les 12 mois par tiers, le premier cycle, les m
 Note de Thomas : La proposition d'un mandant de 5  ans renouvelé par moitié tous les 60 mois (5ans) amène certain à rester en place 10 ans. Le renouvelement par moitié sur un nombre impaire est un peu difficie :)
 Note de Florentin : J'avais proposé 5 ans pour jauger un peu la tendance mais 3 me parrait très bien, çà laisse le temps de mettre en place des projets de longue duré.
 note d'Alex : euh... j'ai du mal à comprendre la pertinence de mandats aussi longs. Si les élus sont valables, ils sont naturellement reconduis non ?
+note de Thomas :  pour des questions de stabilité il est récommandé de ne pas changé de CA entirement à chaque élection mais par partie, pour eviter de faire plusieurs elections par an, le renouvelement par par 1/3 tous les ans est ce qu'il a de plus pratique (sauf a changé le nombre de membre dans le CA)
 
 
 En cas de vacances, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus prochaine assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à l'expiration du mandat des membres remplacés. 
@@ -175,12 +176,12 @@ Article 3 – les adhérents mineurs
 Les adhérents de moins de 18 ans sont acceptés à plusieurs conditions :
 Ils doivent avoir au moins 14 ans.
 -  Le bulletin d’inscription doit être rempli et signé par le représentant  légal de l’enfant. Le règlement intérieur de l’association doit être  signé par le représentant légal et l’enfant.
-- Lors des ateliers  finissant en soirée, le représentant légal est responsable . L’association ne sera en aucun cas responsable en  cas de problème survenant après sa sortie de l’atelier. L’association ne  prendra pas en charge le raccompagnement chez lui du mineur.
+- Lors des ateliers  finissant en soirée, le représentant légal est responsable de la prise en charge du mineur. L’association ne sera en aucun cas responsable en  cas de problème survenant après sa sortie de l’atelier. L’association ne prendra pas en charge le raccompagnement chez lui du mineur.
 - Le  représentant légal procède à l’inscription aux ateliers au nom du  mineur. Il doit s’assurer que les ateliers correspondent au niveau de  l’enfant.
 
 Article 4 - Les différents ateliers
 
-Le  but de l’association "Scrap&Bidules" est de réunir les passionnés  de scrapbooking, débutants comme confirmés, autour de différents types  d’ateliers.
+Le  but de l’association "ACoLab" est de réunir les passionnés  de ????????, débutants comme confirmés, autour de différents types  d’ateliers.
 
 Article 4.1 – Les ateliers libres
 
