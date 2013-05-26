@@ -1,4 +1,4 @@
-STATUTS[1]
+STATUTS
  
  
  
@@ -127,7 +127,5 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 12
  
  «  Fait à….., le…. 2012» 
 Signatures de deux représentants (nom, prénom et fonction) au minimum, nécessaires pour la formalité de déclaration de l’association.
- 
 
-[1] Rappel : cet exemple de statuts n’est proposé qu’à titre purement indicatif.
 
