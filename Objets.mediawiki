@@ -1,0 +1,80 @@
+== PiNG ==
+[NB : Association plus large que le seul fablab.]
+
+L'association PING a pour but de mettre à disposition des ressources humaines et techniques liées aux usages du multimédia dans une démarche de coopération.
+
+
+== Fablab de Lannion ==
+
+Cette association a pour objet :
+
+    De gérer un atelier offrant au public et tout particulièrement aux adhérents du lieu des outils de fabrication numérique ;
+    De promouvoir l’expérimentation par la pratique et la réalisation de projets au moyen des outils mis à disposition dans l’atelier, que ces projets aient une vocation scientifique, technique, artistique, culturelle ou économique ;
+    De favoriser la transmission et les échanges de savoir-faire et de connaissances, en particulier à destination du jeune public ;
+    De promouvoir l’usage et les contributions à l’informatique, au matériel et aux contenus Libres (cf. 2.1) ;
+    De promouvoir la réappropriation par le grand public des capacités d’analyse, de conception, de fabrication et de modification d’objets technologiques, c’est-à-dire la « bidouillabilité » (cf. 2.2) ;
+    De promouvoir les actions visant à la gestion durable des déchets et de l’énergie et à la préservation de la nature, notamment par l’application de la stratégie des Trois R (Réduire, Réutiliser, Recycler), tout particulièrement par le biais de la réutilisation d’objets et matériaux existants, et à leur recyclage ;
+    De proposer aux entreprises locales,associations et institutions des services favorisant leur développement (prototypage rapide, expérimentation de services, produits et outils innovants…);
+    D’entretenir des réseaux de relations destinés à la création d’entreprises et d’opportunités commerciales sur la base des projets issus du FabLab.
+
+
+== Open Bidouille ==
+
+Cette association a pour but la promotion et le développements des nouvelles pratiques basées sur la collaboration et l’ouverture, en particulier dans le domaine de la fabrication personnelle et de l’informatique.
+
+Afin de réaliser ces missions, l’association :
+●      organise des événements, en particulier des Open Bidouille Camp
+●      mène des actions de communication, de représentation et de sensibilisation
+●      et plus généralement entreprend toute action susceptible d’y concourir ou d’en faciliter la réalisation
+
+
+== nybi.cc ==
+
+Cette association a pour but de diffuser le savoir-faire soi-même et faciliter le faire soi-même.
+
+
+== La forge des possibles ==
+
+promouvoir la culture numérique, la réappropriation par chacun des technologies matérielles ou logicielles, l’innovation ouverte, l’apprentissage par le faire et la fabrication numérique ; favoriser l’émergence de nouvelles activités économiques, artistiques, pédagogiques ou scientifiques, liées à la démocratisation de la fabrication numérique personnelle et du prototypage rapide ; mutualiser au sein d’un fablab (laboratoire de fabrication participatif ou micro-usine locale et partagée) : différentes machines soit traditionnelles (machines à coudre, tour à bois, électroportatifs,...) soit à commande numérique (découpe laser, imprimante 3D,...) ; des espaces ouverts de travail et de rencontre ; une communauté de participants prêts à : partager compétences, ressources et savoirs-faire ; documenter leurs projets et les rendre disponibles aux autres au minimum pour usage personnel ; participer à écrire ensemble l’histoire de la Forge des Possibles et à animer/équiper le lieu ; construire, diffuser et animer des ateliers de découvertes, d’initiations ou de perfectionnement autour des techniques et des pratiques utilisées au sein du réseau mondial des FabLabs (prototypage rapide, arduino, impression 3D, innovation ouverte, publication en creative commons, ...) ; déployer d’autres lieux de fabrication numérique, temporaires ou au long terme, sur différents territoires ou lors d’événements particuliers ; favoriser les projets collaboratifs en créant un environnement propice à l’émergence de projets innovants.
+
+
+== MakerSpace56 ==
+
+Cette association a pour objet :
+
+    D’offrir a ses adhérents un espace de travail et des ressources communes, destinés à la réalisation de projets ayant une composante scientifique et technique, artistique ou culturelle.
+    De favoriser la transmission non marchande des savoirs-faire et des connaissances (par exemple en publiant le travail des adhérents et en organisant des actions de valorisation des projets).
+    D’engager des actions susceptibles d’accroître la liberté d’utiliser, de créer, d’analyser et de modifier les objets technologiques.
+    D’agir pour la promotion des sciences & techniques, de la création artistique et des actions culturelles par les moyens définis dans ces statuts.
+
+Dans cet esprit nous publierons des projets réalisés au sein de l’association selon les principes de l’open-source.
+
+
+== Labsud ==
+
+Cette association a pour but :
+D'offrir à ses adhérents un espace de travail et des ressources
+communes, destinés à la réalisation de projets ayant une
+composante scientifique et technique, artistique ou culturelle.
+De favoriser la transmission des savoir-faire et des connaissances.
+D'engager des actions susceptibles d’accroître la liberté
+d'utiliser, de créer, d'analyser et de modifier les objets
+technologiques.
+D'agir pour la promotion des sciences & techniques, de la
+création artistique et des actions culturelles.
+De faire des formations sur des thématiques spécifiques à la
+destination de l’association, à titre gratuit ou onéreux.
+De revendre à ses membres, matières premières, consommables,
+outillages à des conditions préférentielles.
+De vendre au grand public, aux écoles, collèges, lycées,
+enseignement supérieur, collectivités, ou aux entreprises des kits
+de fabrication ou produits finis réalisés par l’association.
+De louer ponctuellement ou régulièrement les locaux à la
+journée avec leurs équipements, avec ou sans
+accompagnateur technique à toute personne le souhaitant, y
+compris des personnes morales (des entreprises en démarche
+d’innovation, collectivités locales ou territoriales, écoles, etc..).
+La propriété intellectuelle des produits issus de ces journées ne
+pourra être décidée que par le bénéficiaire ; l’innovation
+ouverte sera toutefois encouragée par l’association.
+
