@@ -9,17 +9,23 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 ARTICLE 2 - BUT OBJET
 (Note d'Alex : pour éviter de 'ne pas rentrer dans les cases' ou d'être consideré comme industriue, il semble pertinent de se limiter à la "mise à disposition de matériels" sans rentrer dans les détails)
-Cette association a pour but et objet :
+(Cette association a pour but et objet :
 
 Pour (remplir/atteindre) son but, elle 
 *le partage de connaissances, de savoirs, de savoirs faire, et de savoir faire-faire (en référence à Duchateau prof belge de l'informatique des années 80, il ajoutait même "en différé")
 *la mise à disposition d’un local et de matériels pour ses membres
 *l'achat, la  vente et la location de tous matériels (note de Flo : cette mention est à retirer si l'asso désire  être déclarée d'interet public)
-*la possibilité d'organisation d’évènements à destination du grand public.
+*la possibilité d'organisation d’évènements à destination du grand public.)
+(Note d'AleX : nouvel essai basé sur les infos du mail de Goulven du 19 mai)
+Cette association à pour but 
+*- de favoriser l'échange entre ses membres de connaissances technologiques et pratiques.
+*- de permettre à ses membres l'échange, le prêt et/ou l'achat de matériels utiles à ses échanges.
+*- de proposer un lieu avec des animateurs pouvant initier ou former les participants
+*
 
 ARTICLE 3 - SIÈGE SOCIAL 
 
-Le siège social est fixé au 21 rue Jean Richepin 63000 Clermont-Ferrand
+Le siège social est fixé a Clermont-Ferrand (21 rue Jean Richepin 63000 Clermont-Ferrand)
 
 Il pourra être transféré par simple décision du conseil d'administration
 
@@ -42,9 +48,9 @@ Pour faire partie de l'association, il faut être agréé par le bureau, qui sta
 ARTICLE 7 - MEMBRES – COTISATIONS
 
 Sont membres actifs ceux qui ont pris l'engagement de verser annuellement une somme à titre de cotisation fixé par l’assemblée générale dans le règlement intérieur
-Sont membres d'honneur ceux qui ont rendu des services signalés à l'association; ils sont dispensés de cotisations; 
+Sont membres d'honneur ceux qui ont rendu des services signalés à l'association après validation par un vote du Comité d'Administration; ils sont dispensés de cotisations; 
 
-Chaque membres actifs, d'honneur ou adhérents à jours de sa cotisation, 1 an avant la tenu de l’assemblé générale, est en pouvoir de voter. 
+Chaque membres actifs, d'honneur ou adhérents à jours de sa cotisation, 1 an (note d'AleX : Je propose de réduire à 3 mois) avant la tenu de l’assemblé générale, est en pouvoir de voter. 
 
 ARTICLE 8. - RADIATIONS 
 
@@ -55,6 +61,7 @@ c) La radiation prononcée par le conseil d'administration pour non-paiement de 
 (Préciser les modalités de la radiation, les possibilités de défense et de recours du membre.
 Les motifs graves peuvent être précisés ici ou dans le règlement intérieur.)
 d) Pour tout motif de radiation, si le dit adhérent en joui, le status de membre fondateur lui sera définitivement retiré. En cas de radiation de tous les membres fondateurs, (suite à formuler de façon à ce que rien n'entrave toute démarche administrative de l'association)
+AleX: Le status de membre fondateur est purement moral, si ils sont tous radiés, ça ne change rien à priori..)
 
 
 ARTICLE 9. - AFFILIATION
@@ -81,7 +88,7 @@ L’assemblée générale fixe le montant des cotisations annuelles et du droit 
 Ne peuvent être abordés que les points inscrits à l'ordre du jour. 
 
 Les décisions sont prises à la majorité des voix des membres présents ou représentés. Un quorum des 2/3 des membres inscrits est nécessaire.
-Chaque membre présent lors de l’assemblée générale ne peut être porteur que d’un seul pouvoir.
+Chaque membre présent lors de l’assemblée générale (AleX) peut être porteur d'un maximum de deux pouvoirs (ne peut être porteur que d’un seul pouvoir.)
  
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement des membres sortants du conseil.
 
@@ -102,6 +109,7 @@ L'association est dirigée par un conseil de (9) membres, élus pour (3) années
 Le conseil étant renouvelé tous les 12 mois par tiers, le premier cycle, les membres sortants sont désignés par tirage au sort. 
 Note de Thomas : La proposition d'un mandant de 5  ans renouvelé par moitié tous les 60 mois (5ans) amène certain à rester en place 10 ans. Le renouvelement par moitié sur un nombre impaire est un peu difficie :)
 Note de Florentin : J'avais proposé 5 ans pour jauger un peu la tendance mais 3 me parrait très bien, çà laisse le temps de mettre en place des projets de longue duré.
+note d'Alex : euh... j'ai du mal à comprendre la pertinence de mandats aussi longs. Si les élus sont valables, ils sont naturellement reconduis non ?
 
 
 En cas de vacances, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus prochaine assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à l'expiration du mandat des membres remplacés. 
@@ -124,10 +132,11 @@ ARTICLE 15 – INDEMNITÉS
  
 Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 Ces dispositions peuvent être affinées dans un règlement intérieur (nature des frais, qualité des bénéficiaires, etc.)
+ (AleX formulation à trouver) : C'est le comité d'administration qui valide ce qui est remboursable (dans les limites de la loi).
  
 ARTICLE 16 – RÈGLEMENT INTÉRIEUR 
 
-Un règlement intérieur est établi par le conseil d'administration, qui le fait approuver par l'assemblée générale. 
+Un règlement intérieur est établi par le conseil d'administration (Alex : je propose de supprimer si c'est pas obligatoire =>), qui le fait approuver par l'assemblée générale. 
 
 Ce règlement éventuel est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association. 
 
@@ -135,9 +144,129 @@ ARTICLE - 16 - DISSOLUTION
 
 En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés, et l'actif, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution (ou à une association ayant des buts similaires). 
 
-
  
  «  Fait à….., le…. 2012» 
 Signatures de deux représentants (nom, prénom et fonction) au minimum, nécessaires pour la formalité de déclaration de l’association.
+
+Ébauche de réglement intérieur (honteusement repompé sur http://scrapetbidules.forumactif.com/t92-reglement-interieur)
+
+Article 1 – Le statut légal
+
+L'association  "ACoLab" est une association de loi 1901 à but non lucratif.  Aucun membre du Bureau ni adhérent n’est rémunéré par l’Association.
+
+Les membres du Bureau sont :
+Président(e) : 
+Trésorièr(e) : 
+Secrétaire : 
+
+Le siège social de l’association est : 21 rue Jean Richepin 63000 Clermont-Ferrand
+
+Article 2 – La cotisation et l'adhésion
+
+La cotisation annuelle est de  50 € par an et par adhérent.
+Le montant de la cotisation est défini par le comité d'administration lors de l'assemblée générale ordinaire.
+La cotisation comprend les frais de fonctionnement de l’Association (, l’achat de matériel prêté aux adhérents ainsi que les kits de base fournis lors des ateliers dits « à thème ». Tous les kits pour des ateliers à thème seront en supplément.)
+Chaque  adhérent doit être à jour de cotisation pour participer aux ateliers et  aux différentes activités. Dans le cas contraire, après réunion du  conseil d’administration et mise en demeure infructueuse, l'adhérent  pourra être radié de l’association.
+Le règlement intérieur et les  statuts de l’association sont remis à l’adhésion. L’adhésion vaut  acceptation sans condition. L'adhésion est valable de début septembre à  fin juin de l'année en cours. Exemple : 01 septembre 2010 à 30 juin  2010.
+Toute adhésion versée à l’association est définitivement  acquise. Il ne saurait être exigé un remboursement de cotisation (, sauf décision exeptionelle du comité d'administration. en cours d’ année en cas de démission, d’exclusion, ou de décès d’un  membre.)
+
+Article 3 – les adhérents mineurs
+
+Les adhérents de moins de 18 ans sont acceptés à plusieurs conditions :
+Ils doivent avoir au moins 14 ans.
+-  Le bulletin d’inscription doit être rempli et signé par le représentant  légal de l’enfant. Le règlement intérieur de l’association doit être  signé par le représentant légal et l’enfant.
+- Lors des ateliers  finissant en soirée, le représentant légal est responsable . L’association ne sera en aucun cas responsable en  cas de problème survenant après sa sortie de l’atelier. L’association ne  prendra pas en charge le raccompagnement chez lui du mineur.
+- Le  représentant légal procède à l’inscription aux ateliers au nom du  mineur. Il doit s’assurer que les ateliers correspondent au niveau de  l’enfant.
+
+Article 4 - Les différents ateliers
+
+Le  but de l’association "Scrap&Bidules" est de réunir les passionnés  de scrapbooking, débutants comme confirmés, autour de différents types  d’ateliers.
+
+Article 4.1 – Les ateliers libres
+
+Les  adhérents de l’association à jour de cotisation y accèdent  gratuitement. Chacun doit emmener les fournitures nécessaires au projet  qu’il souhaite réaliser. Comme son nom l’indique, l’atelier est « libre  », il n’y a donc ni thème ou ni réalisation imposée. Il sera possible de  finir un atelier à thème de l'association également ou non, Des  challenges peuvent ponctuer l’atelier, sans obligation de les relever.
+Les  non-adhérents ont possibilité d'un premier atelier d'initiation  gratuit, par la suite et sans adhésion, les ateliers sont proposés à  hauteur de 5 € de participation.
+
+Pour connaître les dates des  ateliers libres, les adhérents doivent se référer au planning fourni sur  le site internet et le forum. Ils peuvent aussi contacter le Bureau,
+Le  Bureau peut, en cas de force majeure, annuler une date d’atelier libre.  Dans ce cas, il s’arrangera pour prévenir les adhérents le plus tôt  possible.
+
+Article 4.2 – Les ateliers à thème
+
+Les  adhérents de l’association à jour de cotisation se voient fournir le  kit gratuitement. Ils emmènent néanmoins leur matériel de base (ciseaux,  colle, photos, quelque chose pour protéger la table). Les animatrices  peuvent aussi leur demander d’emmener des fournitures supplémentaires.  Une participation peut parfois être demandé en plus en fonction des  thèmes et/ou supports, ceci restant le plus faible possible.
+Comme son nom l’indique, cet atelier est consacré à la réalisation d’un projet défini à l’avance (carte, page, mini album…).
+
+Article 4.2.1 : Procédure d’inscription pour les adhérents
+
+Pour  s’inscrire, les adhérents peuvent consulter le planning mis à leur  disposition sur le site internet de l’association. S’ils sont intéressés  par un atelier à thème, ils peuvent s’inscrire par e-mail ou lors des  réunions sous réserve des places disponibles. Le nombre de place étant  limité, les e-mails et les demandes orales sont gérés par ordre  d’arrivée.
+Les adhérents peuvent s’inscrire en priorité par rapport  aux non-adhérents de l’association jusqu'à une date fixée par le Bureau.
+
+Article 4.2.2 : Procédure d’inscription pour les non-adhérents
+
+Les  adhérents à l’association peuvent s’inscrire en priorité par rapport  aux non-adhérents jusqu'à une date fixée par le Bureau. A partir de  cette date, et s’il reste des places disponibles, les inscriptions  seront ouvertes aux non-adhérents de l’association qui souhaitent suivre  l’atelier. Ils peuvent donc s’inscrire par e-mail, et s'engagent à  payer le jour de l'atelier, avant le début de celui-ci.
+Le Bureau se réserve le droit de fixer le montant à payer en fonction du type d’atelier.
+
+Article 4.2.3 : Annulation d’un atelier à thème
+
+En  cas de force majeure, l’association ou l’animatrice de l’atelier peut  annuler un atelier à thème. Les inscrits seront alors prévenus le plus  tôt possible.
+Si un inscrit annule sa participation à l’atelier, sa place redevient libre.
+
+Article 5 – Ateliers pour enfants
+
+L’association peut ouvrir exceptionnellement des ateliers parents / enfants. Les enfants devront avoir minimum 7 ans.
+
+Article 5.1 – Inscription
+
+Les  enfants des adhérents à l’association peuvent s’inscrire en priorité  jusqu’à une date fixée par le Bureau. Le règlement se fait à  l’inscription, à un tarif préférentiel.
+A partir de cette date, et  s’il reste des places disponibles, les inscriptions seront ouvertes aux  enfants des non-adhérents de l’association qui souhaitent suivre  l’atelier, à plein tarif. Les inscriptions seront closes à la date fixée  par le Bureau.
+Le règlement se fera le jour de l'atelier, avant le début de celui-ci.
+
+Article 6 – Rémunération des membres du Bureau
+
+L’association  "Scrap&Bidules est une association de loi 1901 à but non lucratif :  les membres du Bureau ne sont donc pas rémunérés par elle.
+En  revanche, les membres du Bureau qui sont employés par une boutique ou  compagnie de scrapbooking à titre de VDI (vendeuse à domicile  indépendante) reçoivent une rémunération de cet employeur qui est tout à  fait étrangère au statut de membre du Bureau de l’association  "Scrap&Bidules".
+
+Article 7 – Achat de matériel
+
+Les  cotisations à l’association "Scrap&Bidules" servent à l’achat de  matériel en commun, qui sera prêté aux adhérents lors des ateliers.
+Elles servent aussi à l’achat des kits distribués lors des ateliers à thème.
+Les adhérents ne sont pas autorisés à emporter le matériel commun chez eux : il appartient à l’association.
+La  détérioration du matériel commun pourra donner lieu, après consultation  entre les membres du Bureau, au remboursement total ou partiel par la  ou les personnes responsables.
+En ce qui concerne l’achat du matériel  ou l’abonnement éventuel à un magazine, le Bureau peut consulter les  adhérents de l’association.
+
+Article 7-1 – les magazines
+
+Les  magazines achetés par l’association sont mis en commun lors des  ateliers libres. Il peuvent également être prêté aux adhérents. Une  feuille d’emprunt sera remplie par un des membres du bureau et  l’emprunteur. En cas de non restitution du magazine, le remboursement  total sera exigé.
+
+Article 8 – Règlement intérieur
+
+Au moment de l’inscription, chacun reçoit une copie du règlement intérieur et des statuts de l’association "Scrap&Bidules".
+L’adhésion à l’association vaut acceptation du règlement intérieur et des statuts et chaque adhérent s’engage à le respecter.
+En  cas de manquement grave au règlement, le conseil d’administration  convoquera l’adhérent fautif qui devra s’expliquer. Une lettre  recommandée sera envoyée à l'adhérent fautif afin de lui notifier la  décision. Le Bureau se réserve le droit d’apprécier la gravité de l’acte  et la sanction à appliquer. La sanction peut aller jusqu’à l’exclusion  définitive de l’association sans possibilité de remboursement de la  cotisation. L’association se réserve le droit de porter plainte en son  nom. L'adhérent fautif dispose d'un délai de 10 jours pour contester la  décision du conseil d'administration.
+Une nouvelle copie du règlement et/ou des statuts peut être remise sur demande.
+
+Article 9 – Ateliers donnés par un adhérent de l’association
+
+N’importe quel adhérent de l’association peut proposer une création originale en atelier.
+L'adhérent  doit d’abord en discuter avec le Bureau qui donnera son accord ou non  et organisera les inscriptions dans les mêmes conditions que celles  listées dans les articles 4.2 et suivants.
+La date sera fixée en accord entre l'adhérent, le Bureau et les disponibilités de location de la salle.
+La création proposée par le adhérent doit être une création originale et non copiée sur un autre artiste.
+Le  adhérent ne pourra prétendre à aucune rémunération de la part de  l’association. Les kits seront commandés après accord entre le adhérent  et le Bureau.
+
+Article 10 – Atelier donné par un non-adhérent de l’association
+
+Exceptionnellement,  un ou une artiste, non-adhérent à l’association "Scrap&Bidules",  pourra donner un atelier dans le cadre de l’association.
+Le Bureau se  réserve le droit de fixer le prix de cet atelier, après accord entre le  Bureau, l’artiste et après le calcul des prix des kits.
+Les adhérents de l’association pourront être amenés à participer aux frais, mais à un prix moindre que les non-adhérents.
+Les non-adhérents qui souhaitent participer payeront leur kit et une participation aux frais.
+Les inscriptions se feront dans les mêmes conditions que pour les ateliers à thème (voir articles 4.2.1 et 4.2.2).
+
+Article 11 – Crop
+
+Plus ou moins régulièrement, selon les disponibilités matérielles, l’association pourra organiser des crops.
+Le  Bureau se réserve le droit de fixer le prix de cet évènement, après  accord entre eux. Les adhérents de l’association auront droit à un tarif  préférentiel.
+
+Article 12 – Sortie de groupe
+
+L’association  peut organiser des sorties de groupe aux salons de loisirs créatifs.  Les adhérents pourront alors bénéficier de tarifs préférentiels. Les  frais de transport et de restauration restent à la charge des adhérents.
 
 
